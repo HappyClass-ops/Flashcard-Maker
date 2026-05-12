@@ -1,0 +1,6 @@
+{
+  "name": "Vocabulary Flashcard & Games",
+  "description": "A comprehensive vocabulary builder with dictionary integration, automatic image fetching, and three interactive game modes (Review, Missing Letters, and Spelling).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
